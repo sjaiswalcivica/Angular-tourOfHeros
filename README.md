@@ -1,5 +1,7 @@
 # tourOfHeros
 
+TODO - build angular application
+
 angularCLI
 
 
